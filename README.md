@@ -1,1 +1,1 @@
-# Gross-Pitaevski-equation
+# Gross-Pitaevski equation
